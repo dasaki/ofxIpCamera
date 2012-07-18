@@ -1,5 +1,7 @@
+***Warning: This is not maintained. You are highly encouraged to use [ofxIpVideoGrabber](https://github.com/bakercp/ofxIpVideoGrabber) instead!***
 
-***Warning: This is not maintained. You are highly encouraged to use [ofxIpVideoGrabber](https://github.com/bakercp/ofxIpVideoGrabber) instea!.***
+ofxIpCamera
+===========
 
 an ip camera grabber addon
 
