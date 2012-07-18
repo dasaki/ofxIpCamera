@@ -1,5 +1,5 @@
-ofxIpCamera
-===========
+
+***Warning: This is not maintained. You are highly encouraged to use [ofxIpVideoGrabber](https://github.com/bakercp/ofxIpVideoGrabber) instea!.***
 
 an ip camera grabber addon
 
