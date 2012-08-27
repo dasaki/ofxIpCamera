@@ -1,0 +1,2 @@
+ofxIpCamera
+ofxOpenCv

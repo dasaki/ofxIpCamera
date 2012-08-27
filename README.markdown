@@ -1,5 +1,3 @@
-***Warning: This is not maintained. You are highly encouraged to use [ofxIpVideoGrabber](https://github.com/bakercp/ofxIpVideoGrabber) instead!***
-
 ofxIpCamera
 ===========
 
